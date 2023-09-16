@@ -36,8 +36,11 @@ I followed a systematic approach to testing, including test case design, executi
 Skills Acquired:
 
 Proficiency in manual testing methodologies.
+
 Bug reporting and defect tracking.
+
 Collaboration with development teams for issue resolution.
+
 Attention to detail and a commitment to quality assurance.
 
 This project allowed me to gain valuable hands-on experience in the field of software testing and reinforced my passion for ensuring the reliability and usability of digital products. I am now eager to apply my skills and knowledge to new opportunities in the software testing domain. Please feel free to explore the project on my GitHub for more details aexamples of my work.
