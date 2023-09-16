@@ -5,8 +5,11 @@ As a fresher with a strong passion for quality assurance, I embarked on a 6-mont
 Project Overview:
 
 Duration: 2 months
+
 Company: Design Techno
+
 Objective: To thoroughly test the functionality and user experience of an e-commerce website.
+
 Key Modules Tested:
 
 Login:
